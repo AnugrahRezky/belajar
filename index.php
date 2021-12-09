@@ -1,3 +1,4 @@
 <?php
-gffgggffhgff hvftftdftdrdrdr
+$x = 5;
+echo "$x";
 ?>
